@@ -7,3 +7,12 @@
     "youtube": "https://youtube.com/playlist?list=MLPLAYLIST"
   }
 ]
+
+{
+  "title": "Data Structures & Algorithms",
+  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+  "desc": "Complete DSA preparation",
+  "folder": "dsa",
+  "github": "https://github.com/Chalasani-Sravan-Chowdhary-Work/StudyOS-Content/tree/main/courses/dsa",
+  "youtube": "https://youtube.com/playlist?list=DSA"
+}
