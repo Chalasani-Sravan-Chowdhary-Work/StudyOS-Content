@@ -2,17 +2,15 @@
   {
     "title": "Machine Learning",
     "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
-    "desc": "Complete Machine Learning roadmap",
-    "github": "https://raw.githubusercontent.com/Chalasani-Sravan-Chowdhary-Work/StudyOS-Content/refs/heads/main/courses/courses/machine-learning/README.md",
+    "desc": "Complete ML roadmap",
+    "github": "https://github.com/Chalasani-Sravan-Chowdhary-Work/StudyOS-Content/tree/main/courses/machine-learning",
     "youtube": "https://youtube.com/playlist?list=MLPLAYLIST"
+  },
+  {
+    "title": "Data Structures & Algorithms",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "desc": "Complete DSA preparation",
+    "github": "https://github.com/Chalasani-Sravan-Chowdhary-Work/StudyOS-Content/tree/main/courses/dsa",
+    "youtube": "https://youtube.com/playlist?list=DSAPLAYLIST"
   }
 ]
-
-{
-  "title": "Data Structures & Algorithms",
-  "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
-  "desc": "Complete DSA preparation",
-  "folder": "dsa",
-  "github": "https://raw.githubusercontent.com/Chalasani-Sravan-Chowdhary-Work/StudyOS-Content/refs/heads/main/courses/courses/dsa/README.md",
-  "youtube": "https://youtube.com/playlist?list=DSA"
-}
